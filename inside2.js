@@ -1,5 +1,5 @@
 function inside2(){
-  strokeWeight(0.1);
+  strokeWeight(0.2);
   stroke(255);
   fill(img.get(204,223));
 beginShape();
