@@ -15,7 +15,7 @@ function setup() {
   createCanvas(450,600);
   
 function Filesave (){
-saveCanvas('HappyPixelatedDIWALI', 'png');
+saveCanvas('HappyPixelatedDIWALI', 'jpg');
 }
  
 function gotFile(file) {
